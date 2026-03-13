@@ -25,7 +25,7 @@ I design. I code. I learn. I improve. And I keep building. 🚀
 - Adobe Illustrator  
 - Logo Design  
 - Poster & Social Media Graphics  
-- Creative Composition & Typography  
+- Creative Composition & Typography   : Check it out at my Behance Profile (https://www.behance.net/carolinemildredgomes/projects )
 
 ### 💻 Programming
 - C (CS50 Problem Sets & Exercises)  
